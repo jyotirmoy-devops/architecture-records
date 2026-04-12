@@ -1,0 +1,1 @@
+Architecture draft initialized by AI Review Board.
